@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="69770" started-at="2022-12-25T15:16:33 IST" finished-at="2022-12-25T15:17:42 IST">
+    <groups>
+      <group name="smoke Test">
+        <method signature="create_campaign.create_campaignTest()[pri:0, instance:campaign.create_campaign@11758f2a]" name="create_campaignTest" class="campaign.create_campaign"/>
+      </group> <!-- smoke Test -->
+      <group name="reggressionTest">
+        <method signature="create_campaign.create_campaignTest()[pri:0, instance:campaign.create_campaign@11758f2a]" name="create_campaignTest" class="campaign.create_campaign"/>
+      </group> <!-- reggressionTest -->
+    </groups>
+    <test name="Default test" duration-ms="69770" started-at="2022-12-25T15:16:33 IST" finished-at="2022-12-25T15:17:42 IST">
+      <class name="campaign.create_campaign">
+        <test-method status="PASS" signature="BS()[pri:0, instance:campaign.create_campaign@11758f2a]" name="BS" is-config="true" duration-ms="30" started-at="2022-12-25T15:16:33 IST" finished-at="2022-12-25T15:16:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method status="PASS" signature="BT()[pri:0, instance:campaign.create_campaign@11758f2a]" name="BT" is-config="true" duration-ms="2" started-at="2022-12-25T15:16:33 IST" finished-at="2022-12-25T15:16:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method status="PASS" signature="BC()[pri:0, instance:campaign.create_campaign@11758f2a]" name="BC" is-config="true" duration-ms="46443" started-at="2022-12-25T15:16:33 IST" finished-at="2022-12-25T15:17:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method status="PASS" signature="BM()[pri:0, instance:campaign.create_campaign@11758f2a]" name="BM" is-config="true" duration-ms="3384" started-at="2022-12-25T15:17:19 IST" finished-at="2022-12-25T15:17:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method status="PASS" signature="create_campaignTest()[pri:0, instance:campaign.create_campaign@11758f2a]" name="create_campaignTest" duration-ms="17670" started-at="2022-12-25T15:17:23 IST" finished-at="2022-12-25T15:17:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_campaignTest -->
+        <test-method status="PASS" signature="AM()[pri:0, instance:campaign.create_campaign@11758f2a]" name="AM" is-config="true" duration-ms="2004" started-at="2022-12-25T15:17:40 IST" finished-at="2022-12-25T15:17:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method status="PASS" signature="AC()[pri:0, instance:campaign.create_campaign@11758f2a]" name="AC" is-config="true" duration-ms="190" started-at="2022-12-25T15:17:42 IST" finished-at="2022-12-25T15:17:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method status="PASS" signature="AT()[pri:0, instance:campaign.create_campaign@11758f2a]" name="AT" is-config="true" duration-ms="0" started-at="2022-12-25T15:17:42 IST" finished-at="2022-12-25T15:17:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method status="PASS" signature="AS()[pri:0, instance:campaign.create_campaign@11758f2a]" name="AS" is-config="true" duration-ms="1" started-at="2022-12-25T15:17:42 IST" finished-at="2022-12-25T15:17:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- campaign.create_campaign -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
